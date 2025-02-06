@@ -28,5 +28,6 @@ let state;
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
 console.log(typeof state) //undefined
+console.log(typeof age)
 
-console.table([state,name])
+console.table([state,name,age])
